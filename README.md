@@ -10,14 +10,16 @@
 </div>   
 
 ##
-
+<h3>Tecnologias que eu uso: </h3>
 <a href="https://github.com/AngelAnds">
     <div>
-        <img hspace="4px" alt="Ands-Py" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img hspace="4px" alt="Ands-css3" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img hspace="4px" alt="Ands-html5" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img hspace="4px" alt="Ands-js" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img hspace="4px" alt="Ands-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img hspace="4px" alt="Ands-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img hspace="4px" alt="Ands-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img hspace="4px" alt="Ands-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </div>
 </a>
+
+##
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelAnds&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
