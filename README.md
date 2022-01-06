@@ -1,7 +1,6 @@
 <h2>Olá! Sou o Ângelo Ands ✌️</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ands_aa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/angeloands143@gmail.com)
 
 ![AngeloAnds GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelAnds&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAnds&layout=compactlangs_count=7&theme=tokyonight)](https://github.com/AngelAnds/github-readme-stats)
