@@ -16,4 +16,4 @@
 [![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )](https://github.com/AngelAnds)
 
-+ <h2>Desenvolvedor iniciante de aplicações web e projetos diversos em Python 3.7</h2>
++ <h4>Desenvolvedor iniciante de aplicações web e projetos diversos em Python 3.7</h4>
