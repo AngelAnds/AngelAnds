@@ -1,23 +1,19 @@
 <h2>Olá! Sou o Ângelo Ands ✌️</h2>
 
-<div>
-<a href="https://instagram.com/ands_aa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@angeloandrade143.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://instagram.com/ands_aa)
 
 ![AngeloAnds GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelAnds&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAnds&layout=compactlangs_count=7&theme=tokyonight)](https://github.com/AngelAnds/github-readme-stats)  
-<p3>Tecnologias que eu uso: </p3>
-<a href="https://github.com/AngelAnds">
-    <div>
-        <img hspace="4px" alt="Ands-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img hspace="4px" alt="Ands-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img hspace="4px" alt="Ands-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img hspace="4px" alt="Ands-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </div>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAnds&layout=compactlangs_count=7&theme=tokyonight)](https://github.com/AngelAnds/github-readme-stats)
 
-##
+[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)](https://github.com/AngelAnds)
+[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)](https://github.com/AngelAnds)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)](https://github.com/AngelAnds)
+[![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)](https://github.com/AngelAnds)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelAnds&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
++ <h2>Desenvolvedor iniciante de aplicações web e projetos diversos em Python 3.7</h2>
