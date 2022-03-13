@@ -10,4 +10,4 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AngelAnds)
 [![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AngelAnds)
 
-+ <h4>Desenvolvedor iniciante de aplicações web e projetos diversos em Python 3.7</h4>
++ <h4>Desenvolvedor iniciante de sistemas web e projetos em Python 3</h4>
