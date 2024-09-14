@@ -1,1 +1,1 @@
-<h1>Hello, world!</h1>
+<h1><em>Hello, <strike>world</strike>!<em></h1>
