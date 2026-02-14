@@ -1,6 +1,6 @@
 <h1>Olá 🖐, me chamo Ângelo 👨🏻‍💻</h1>
 
-<p>Sou desenvolvedor de software e graduando em <strong>Ciências da Computação</strong>. Gosto de estudar, sistematizar e desenvolver tudo o que envolve <strong>Análise de Dados, Machine Learning, Back-End e Desktop Apps</strong>.
+<p>Sou desenvolvedor de software e graduando em <strong>Ciências da Computação</strong>. Gosto de estudar, projetar e desenvolver tudo o que envolve <strong>Análise de Dados, Machine Learning, Back-End e Desktop Apps</strong>.
 Sou apaixonado por inovação então busco sempre estar por dentro de novas tecnologias.</p>
 
 <div>
